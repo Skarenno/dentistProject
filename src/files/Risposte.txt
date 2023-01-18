@@ -1,0 +1,20 @@
+Dolori alla protesi dentale?
+1: Si, caso di protesi
+2: No, non si tratta di protesi
+Da quanto tempo si presenta il dolore?
+1: Da qualche giorno, è iniziato lento, ma questa notte è stato fortissimo
+2: Da più di 3 giorni
+3: Da quando ho fatto l'otturazione
+Si presenta sensibilità al freddo o al caldo?
+1: Si il dolore aumenta enormemente
+2: No, è indifferente
+Si presenta sensibilità alla pressione?
+1: Si, il dolore aumenta di molto (e non riesco a stringere)
+2: No, è indifferente
+Il dolore aumenta allo stringere dei denti?
+1: Si, non riesco a stringere
+2: No, è indifferente
+Il dolore è localizzato?
+1: Si, riesco a localizzare il dente
+2: Si, riesco a localizzare diversi punti (solitamente al livello della mandibola)
+3: No, non riesco a localizzare il dente e il dolore è diffuso per tutta la zona (anche solo destra o sinistra)
